@@ -1,0 +1,148 @@
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\appsettings.Development.json
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\appsettings.json
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\getbiz_user_app.exe
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\getbiz_user_app.deps.json
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\getbiz_user_app.runtimeconfig.json
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\getbiz_user_app.runtimeconfig.dev.json
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\getbiz_user_app.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\ref\getbiz_user_app.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\getbiz_user_app.pdb
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Azure.Core.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Azure.Identity.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Humanizer.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Savage.Data.MySqlClient.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\MySqlConnector.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\OptimizedDataReader.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Savage.Data.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.csproj.AssemblyReference.cache
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.AssemblyInfoInputs.cache
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.AssemblyInfo.cs
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.csproj.CoreCompileInputs.cache
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\staticwebassets\getbiz_user_app.StaticWebAssets.Manifest.cache
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\staticwebassets\getbiz_user_app.StaticWebAssets.xml
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\scopedcss\bundle\getbiz_user_app.styles.css
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.RazorTargetAssemblyInfo.cache
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.csproj.CopyComplete
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\ref\getbiz_user_app.dll
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.pdb
+D:\Project\David VS Source Code\Localhost_Visual_Studio_Files\getbiz_user_app\obj\Release\net5.0\getbiz_user_app.genruntimeconfig.cache
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\appsettings.Development.json
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\appsettings.json
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\getbiz_user_app.exe
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\getbiz_user_app.deps.json
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\getbiz_user_app.runtimeconfig.json
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\getbiz_user_app.runtimeconfig.dev.json
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\getbiz_user_app.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\ref\getbiz_user_app.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\getbiz_user_app.pdb
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Azure.Core.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Azure.Identity.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Humanizer.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Savage.Data.MySqlClient.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\MySqlConnector.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\OptimizedDataReader.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Savage.Data.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.csproj.AssemblyReference.cache
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.AssemblyInfoInputs.cache
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.AssemblyInfo.cs
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.csproj.CoreCompileInputs.cache
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.MvcApplicationPartsAssemblyInfo.cs
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.MvcApplicationPartsAssemblyInfo.cache
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\staticwebassets\getbiz_user_app.StaticWebAssets.Manifest.cache
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\staticwebassets\getbiz_user_app.StaticWebAssets.xml
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\scopedcss\bundle\getbiz_user_app.styles.css
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.RazorTargetAssemblyInfo.cache
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.csproj.CopyComplete
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\ref\getbiz_user_app.dll
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.pdb
+D:\Lokesh\getbiz_user_app-main\getbiz_user_app-main\obj\Release\net5.0\getbiz_user_app.genruntimeconfig.cache

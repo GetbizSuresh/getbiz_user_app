@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Lokesh\getbiz_user_app-main\Publish_getbizuserapp</_PublishTargetUrl>
+    <History>True|2022-03-18T08:09:18.8763310Z;True|2022-03-15T18:36:05.1963038+05:30;True|2022-03-15T18:16:12.3960616+05:30;True|2022-03-14T20:25:08.5179625+05:30;True|2022-03-14T19:49:01.8405001+05:30;True|2022-03-14T19:48:47.8200411+05:30;True|2022-03-14T19:37:29.3715514+05:30;</History>
+  </PropertyGroup>
+</Project>
